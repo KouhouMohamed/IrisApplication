@@ -122,7 +122,7 @@ public class SimpleClassifier {
         double petaLenght;
         double petalWidth;
         INDArray input, output,myClass;
-       // while(true){
+        while(true){
             System.out.print("Entrer SepalLenght : ");
             sepalLenght = scanner.nextDouble();
 
@@ -134,13 +134,12 @@ public class SimpleClassifier {
 
             System.out.print("Entrer PetalWidth : ");
             petalWidth = scanner.nextDouble();
-            /*input = new Nd4j.create(new double [][]{
+            input = new Nd4j.create(new double [][]{
                     {sepalLenght,sepalWidth,petaLenght,petalWidth}
             });
             output = model.output(input);
             myClass = output.argMax(1);
-            System.out.println(myClass.toIntVector());*/
-       // }
-        System.out.println("class is : Iris-setosa");
+            System.out.println("class is : "+labels[myClass.toIntVector()[0]]);
+        }
     }
 }

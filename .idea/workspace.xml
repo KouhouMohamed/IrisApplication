@@ -14,16 +14,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae027b4a-da67-44cf-bc62-c771cc456ca3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Iris.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/IrisClassifierApp.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/SimpleClassifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SimpleClassifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/IrisClassifierApp$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/IrisClassifierApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SimpleClassifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SimpleClassifier.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,17 +79,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.IrisClassifierApp" />
       <item itemvalue="Application.SimpleClassifier" />
@@ -133,6 +113,7 @@
       <workItem from="1563950666571" duration="5322000" />
       <workItem from="1622321512791" duration="2249000" />
       <workItem from="1622366677417" duration="15810000" />
+      <workItem from="1622446811217" duration="154000" />
     </task>
     <servers />
   </component>
