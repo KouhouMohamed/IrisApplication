@@ -17,13 +17,9 @@
       <change afterPath="$PROJECT_DIR$/.idea/Iris.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/IrisClassifierApp.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/SimpleClassifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SimpleClassifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/IrisClassifierApp$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/IrisClassifierApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SimpleClassifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SimpleClassifier.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +35,14 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Butt</find>
+      <find>awt</find>
+      <find>Image</find>
+      <find>webView</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -83,18 +87,7 @@
     </configuration>
     <configuration name="SimpleClassifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SimpleClassifier" />
-      <module name="Iris" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+      <module name="irisdl4j" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -131,8 +124,7 @@
       <workItem from="1563131679813" duration="586000" />
       <workItem from="1563729094865" duration="3181000" />
       <workItem from="1563950666571" duration="5322000" />
-      <workItem from="1622321512791" duration="2249000" />
-      <workItem from="1622366677417" duration="15810000" />
+      <workItem from="1622321512791" duration="696000" />
     </task>
     <servers />
   </component>
@@ -158,24 +150,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="660" height="311" key="GridCell.Tab.0.bottom" timestamp="1622419229979">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state width="660" height="311" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1622419229979" />
-    <state width="660" height="311" key="GridCell.Tab.0.center" timestamp="1622419229978">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state width="660" height="311" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1622419229978" />
-    <state width="660" height="311" key="GridCell.Tab.0.left" timestamp="1622419229978">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state width="660" height="311" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1622419229978" />
-    <state width="660" height="311" key="GridCell.Tab.0.right" timestamp="1622419229978">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state width="660" height="311" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1622419229978" />
   </component>
 </project>
